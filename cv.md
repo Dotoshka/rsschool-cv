@@ -6,4 +6,29 @@
 ## About me
 ## ![](https://i.ibb.co/M1F9hdC/298733-32.png)Experience 
 ## ![](https://i.ibb.co/jTJwzTy/298716-32.png)Education
+#### People's friendship university of Russia (PFUR)
+Master in Management in technical systems, Academy of Engineering\
+*Moscow, 2010-2017*
+#### FreeCodeCamp courses
+- Responsive Web Design
+- JavaScript Algorithms and Data Structures
+- Frontend Libraries
 ## ![](https://i.ibb.co/DwQvcVz/298852-32.png)Skills
+### Software development
+ - HyperText Markup Language (HTML)
+ - Cascading Style Sheets (CSS)
+ - JavaScript (JS)
+ - Version Control (Git)
+ - Bug tracking (Jira)
+### Business analisys
+- Analytical thinking
+- Business process modeling (EPC, Block diagram)
+- Preparing functional requirements
+- Formulating the backlog
+- Functional Testing
+### Other skills
+- Project management
+- Negotiation skills
+- Teamwork
+- English level is B2 (Upper Intermediate) according to [EF Standard English Test](https://www.efset.org/cert/bKhtNF)
+
