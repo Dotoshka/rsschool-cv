@@ -4,7 +4,8 @@
 ![phone:](https://i.ibb.co/pLjJCd1/352510-24.png)    *+7(916)823-70-62*\
 ![email:](https://i.ibb.co/DfKcvhX/763298-24-1.png)    *yaroslavcevatamara@gmail.com*
 
-## About me
+##
+Business Analyst with 4 years experience seeking to transition to Front-end Developer. I have 6 successfully completed projects and a good understanding of software development stages. On the last project, I combined the role of a Business Analyst and a Project Manager in a team of 3 developers.
 
 ## ![](https://i.ibb.co/M1F9hdC/298733-32.png)Experience
 
